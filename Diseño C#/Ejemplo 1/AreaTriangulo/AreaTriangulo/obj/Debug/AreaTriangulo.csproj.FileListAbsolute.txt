@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO 4\source\repos\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe.config
+C:\Users\LABORATORIO 4\source\repos\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\LABORATORIO 4\source\repos\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\LABORATORIO 4\source\repos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 4\source\repos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 4\source\repos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\LABORATORIO 4\source\repos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb
+G:\Semestre-2024\1-Ing Sistemas\1- Programación II\2.PII -UNIDADES\Unidad II - Procesamiento Paralelo\Documentos\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe.config
+G:\Semestre-2024\1-Ing Sistemas\1- Programación II\2.PII -UNIDADES\Unidad II - Procesamiento Paralelo\Documentos\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+G:\Semestre-2024\1-Ing Sistemas\1- Programación II\2.PII -UNIDADES\Unidad II - Procesamiento Paralelo\Documentos\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+G:\Semestre-2024\1-Ing Sistemas\1- Programación II\2.PII -UNIDADES\Unidad II - Procesamiento Paralelo\Documentos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.AssemblyReference.cache
+G:\Semestre-2024\1-Ing Sistemas\1- Programación II\2.PII -UNIDADES\Unidad II - Procesamiento Paralelo\Documentos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.CoreCompileInputs.cache
+G:\Semestre-2024\1-Ing Sistemas\1- Programación II\2.PII -UNIDADES\Unidad II - Procesamiento Paralelo\Documentos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+G:\Semestre-2024\1-Ing Sistemas\1- Programación II\2.PII -UNIDADES\Unidad II - Procesamiento Paralelo\Documentos\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb

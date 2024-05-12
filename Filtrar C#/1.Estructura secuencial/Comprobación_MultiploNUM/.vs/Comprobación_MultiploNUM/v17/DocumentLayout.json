@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z3r0f\\source\\repos\\Comprobaci\u00F3n_MultiploNUM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2069AB-DD74-4621-88D5-AE1540A66C03}|Comprobaci\u00F3n_MultiploNUM\\Comprobaci\u00F3n_MultiploNUM.csproj|c:\\users\\z3r0f\\source\\repos\\comprobaci\u00F3n_multiplonum\\comprobaci\u00F3n_multiplonum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2069AB-DD74-4621-88D5-AE1540A66C03}|Comprobaci\u00F3n_MultiploNUM\\Comprobaci\u00F3n_MultiploNUM.csproj|solutionrelative:comprobaci\u00F3n_multiplonum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\z3r0f\\source\\repos\\Comprobaci\u00F3n_MultiploNUM\\Comprobaci\u00F3n_MultiploNUM\\Program.cs",
+              "RelativeDocumentMoniker": "Comprobaci\u00F3n_MultiploNUM\\Program.cs",
+              "ToolTip": "C:\\Users\\z3r0f\\source\\repos\\Comprobaci\u00F3n_MultiploNUM\\Comprobaci\u00F3n_MultiploNUM\\Program.cs",
+              "RelativeToolTip": "Comprobaci\u00F3n_MultiploNUM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:48:12.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

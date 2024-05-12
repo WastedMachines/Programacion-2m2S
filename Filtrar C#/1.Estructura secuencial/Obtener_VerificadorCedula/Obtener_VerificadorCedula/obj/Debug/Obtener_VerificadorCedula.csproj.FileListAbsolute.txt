@@ -1,0 +1,7 @@
+C:\Users\z3r0f\source\repos\Obtener_VerificadorCedula\Obtener_VerificadorCedula\bin\Debug\Obtener_VerificadorCedula.exe.config
+C:\Users\z3r0f\source\repos\Obtener_VerificadorCedula\Obtener_VerificadorCedula\bin\Debug\Obtener_VerificadorCedula.exe
+C:\Users\z3r0f\source\repos\Obtener_VerificadorCedula\Obtener_VerificadorCedula\bin\Debug\Obtener_VerificadorCedula.pdb
+C:\Users\z3r0f\source\repos\Obtener_VerificadorCedula\Obtener_VerificadorCedula\obj\Debug\Obtener_VerificadorCedula.csproj.AssemblyReference.cache
+C:\Users\z3r0f\source\repos\Obtener_VerificadorCedula\Obtener_VerificadorCedula\obj\Debug\Obtener_VerificadorCedula.csproj.CoreCompileInputs.cache
+C:\Users\z3r0f\source\repos\Obtener_VerificadorCedula\Obtener_VerificadorCedula\obj\Debug\Obtener_VerificadorCedula.exe
+C:\Users\z3r0f\source\repos\Obtener_VerificadorCedula\Obtener_VerificadorCedula\obj\Debug\Obtener_VerificadorCedula.pdb

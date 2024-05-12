@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z3r0f\\source\\repos\\Suma_Arrange_Intercalado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC5338A-803B-4A7A-B427-47040D203E50}|Suma_Arrange_Intercalado\\Suma_Arrange_Intercalado.csproj|c:\\users\\z3r0f\\source\\repos\\suma_arrange_intercalado\\suma_arrange_intercalado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC5338A-803B-4A7A-B427-47040D203E50}|Suma_Arrange_Intercalado\\Suma_Arrange_Intercalado.csproj|solutionrelative:suma_arrange_intercalado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\z3r0f\\source\\repos\\Suma_Arrange_Intercalado\\Suma_Arrange_Intercalado\\Program.cs",
+              "RelativeDocumentMoniker": "Suma_Arrange_Intercalado\\Program.cs",
+              "ToolTip": "C:\\Users\\z3r0f\\source\\repos\\Suma_Arrange_Intercalado\\Suma_Arrange_Intercalado\\Program.cs",
+              "RelativeToolTip": "Suma_Arrange_Intercalado\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:52:45.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

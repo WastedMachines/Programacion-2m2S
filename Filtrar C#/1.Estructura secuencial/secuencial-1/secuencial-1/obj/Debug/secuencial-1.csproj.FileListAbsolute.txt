@@ -1,0 +1,7 @@
+C:\Users\Servidor.SQL\source\repos\secuencial-1\secuencial-1\bin\Debug\secuencial-1.exe.config
+C:\Users\Servidor.SQL\source\repos\secuencial-1\secuencial-1\bin\Debug\secuencial-1.exe
+C:\Users\Servidor.SQL\source\repos\secuencial-1\secuencial-1\bin\Debug\secuencial-1.pdb
+C:\Users\Servidor.SQL\source\repos\secuencial-1\secuencial-1\obj\Debug\secuencial-1.csproj.AssemblyReference.cache
+C:\Users\Servidor.SQL\source\repos\secuencial-1\secuencial-1\obj\Debug\secuencial-1.csproj.CoreCompileInputs.cache
+C:\Users\Servidor.SQL\source\repos\secuencial-1\secuencial-1\obj\Debug\secuencial-1.exe
+C:\Users\Servidor.SQL\source\repos\secuencial-1\secuencial-1\obj\Debug\secuencial-1.pdb

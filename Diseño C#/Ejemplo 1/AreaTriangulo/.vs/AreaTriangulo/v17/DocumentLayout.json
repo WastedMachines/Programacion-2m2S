@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Semestre-2024\\1-Ing Sistemas\\1- Programaci\u00F3n II\\2.PII -UNIDADES\\Unidad II - Procesamiento Paralelo\\Documentos\\AreaTriangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2BEEE2-83EB-41D3-8377-234B14B84FAD}|AreaTriangulo\\AreaTriangulo.csproj|g:\\semestre-2024\\1-ing sistemas\\1- programaci\u00F3n ii\\2.pii -unidades\\unidad ii - procesamiento paralelo\\documentos\\areatriangulo\\areatriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2BEEE2-83EB-41D3-8377-234B14B84FAD}|AreaTriangulo\\AreaTriangulo.csproj|solutionrelative:areatriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Semestre-2024\\1-Ing Sistemas\\1- Programaci\u00F3n II\\2.PII -UNIDADES\\Unidad II - Procesamiento Paralelo\\Documentos\\AreaTriangulo\\AreaTriangulo\\Program.cs",
+              "RelativeDocumentMoniker": "AreaTriangulo\\Program.cs",
+              "ToolTip": "G:\\Semestre-2024\\1-Ing Sistemas\\1- Programaci\u00F3n II\\2.PII -UNIDADES\\Unidad II - Procesamiento Paralelo\\Documentos\\AreaTriangulo\\AreaTriangulo\\Program.cs",
+              "RelativeToolTip": "AreaTriangulo\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAwEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:57:48.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

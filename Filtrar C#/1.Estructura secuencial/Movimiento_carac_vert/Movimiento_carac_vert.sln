@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movimiento_carac_vert", "Movimiento_carac_vert\Movimiento_carac_vert.csproj", "{DA610E2A-5BE2-4F4B-B728-7C97136E9033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA610E2A-5BE2-4F4B-B728-7C97136E9033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA610E2A-5BE2-4F4B-B728-7C97136E9033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA610E2A-5BE2-4F4B-B728-7C97136E9033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA610E2A-5BE2-4F4B-B728-7C97136E9033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF96FECE-AB9E-4FBA-B510-E5F99F59302F}
+	EndGlobalSection
+EndGlobal

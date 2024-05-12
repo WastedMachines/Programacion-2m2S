@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z3r0f\\source\\repos\\Intercalacion_Mayuscula_minuscula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D4A3ED-5E0E-439A-AFE7-3DD104ED4AE6}|Intercalacion_Mayuscula_minuscula\\Intercalacion_Mayuscula_minuscula.csproj|c:\\users\\z3r0f\\source\\repos\\intercalacion_mayuscula_minuscula\\intercalacion_mayuscula_minuscula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D4A3ED-5E0E-439A-AFE7-3DD104ED4AE6}|Intercalacion_Mayuscula_minuscula\\Intercalacion_Mayuscula_minuscula.csproj|solutionrelative:intercalacion_mayuscula_minuscula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\z3r0f\\source\\repos\\Intercalacion_Mayuscula_minuscula\\Intercalacion_Mayuscula_minuscula\\Program.cs",
+              "RelativeDocumentMoniker": "Intercalacion_Mayuscula_minuscula\\Program.cs",
+              "ToolTip": "C:\\Users\\z3r0f\\source\\repos\\Intercalacion_Mayuscula_minuscula\\Intercalacion_Mayuscula_minuscula\\Program.cs",
+              "RelativeToolTip": "Intercalacion_Mayuscula_minuscula\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:21:51.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
